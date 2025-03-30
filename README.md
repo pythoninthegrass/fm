@@ -42,7 +42,7 @@ untested, but if you can get the system dependencies to build, `fm` should work.
     #### Fedora
 
     ```
-    $ dnf install -y gtk4 libadwaita-devel libpanel
+    $ dnf install -y gtk4-devel libadwaita-devel libpanel-devel gtksourceview5-devel poppler-glib-devel
     ```
 
     #### openSUSE
